@@ -27,6 +27,10 @@ installation:
   - Clone the repository:
       - git clone https://github.com/yourusername/invoice-ocr.git
       - cd invoice-ocr
+   
+  - create anaconda virtual env
+  -activate virtual env
+
   - Install dependencies:
       - pip install opencv-python pytesseract pandas numpy
   - Ensure Tesseract OCR is installed and added to PATH, or set path in script:
