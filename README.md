@@ -3,6 +3,7 @@ project: Invoice OCR & Line Item Extractor-test
 description: >
   A Python tool to extract invoice line items and total amounts from
   scanned invoice or receipt images using Tesseract OCR and OpenCV.
+  created using anaconda virtual environment
 
 features:
   - Extracts line items: description, quantity, unit price, line total
